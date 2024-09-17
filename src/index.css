@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  width: fit-content;
+  padding-block: 0.5rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  background-color: #ddd;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #eee;
+}
